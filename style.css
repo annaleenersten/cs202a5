@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
+body header{
+    background-image: url(vecteezy_checkered-black-and-white-background-vector-illustration_20716445.jpg);
+    background-repeat: repeat;
+    height: 13vh;
+    background-size: 20vh;
+    font-family: 'Protest Strike', sans-serif;
+    color:red;
+    font-weight: bolder;
+}
+body header h1{
+    padding-top: 1%;
+    background-color: white;
+}
+
+.btn{
+    background-color: black;
+    color: red;
+    font-weight: bolder;
+    height: 10vh;
+    width: 25vh;
+    padding-top: 2%;
+}
+
+.panel-heading{
+    background-color: grey;
+    width: 70vh;
+}
+.panel-body{
+    border: 0.25vh solid black;
+    width: 70vh;
+}
+body{
+    text-align: center;
+}
+
+

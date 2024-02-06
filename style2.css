@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.btn-danger{
+    background-color: pink;
+}
+
+.btn-default{
+    background-color: rgba(47, 72, 211, 0.719);
+}
+
+.row button{
+    height: 10vh;
+}
