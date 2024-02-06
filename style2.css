@@ -4,17 +4,19 @@ body{
     text-align: center;
     font-family: 'Protest Strike', sans-serif;
 }
-
 .btn-danger{
     background-color: red;
     color: white;
 }
-
 .btn-primary{
     background-color: black;
     color: white;
 }
-
 .row button{
     height: 10vh;
+}
+
+.dropdown-menu{
+    width: 65vh;
+    height: 8vh;
 }
