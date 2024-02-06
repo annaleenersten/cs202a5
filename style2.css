@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
 body{
     text-align: center;
+    font-family: 'Protest Strike', sans-serif;
 }
 
 .btn-danger{
-    background-color: pink;
+    background-color: red;
+    color: white;
 }
 
-.btn-default{
-    background-color: rgba(47, 72, 211, 0.719);
+.btn-primary{
+    background-color: black;
+    color: white;
 }
 
 .row button{

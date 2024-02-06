@@ -22,8 +22,10 @@ body header h1{
     width: 25vh;
     padding-top: 1.5%;
 }
+
 body{
     text-align: center;
+    font-family: 'Protest Strike', sans-serif;
 }
 
 body p{
