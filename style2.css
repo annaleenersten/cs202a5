@@ -19,3 +19,6 @@ body{
     width: 100%;
     height: 8vh;
 }
+#number1, #number2, #number3, #number4, #number5, #number6, #number7, #number8, #number9, #number10, #number11, #number12{
+    font-size: 2.3vh;
+}
