@@ -8,15 +8,14 @@ body{
     background-color: red;
     color: white;
 }
-.btn-primary{
+#buttonColor{
     background-color: black;
     color: white;
 }
 .row button{
     height: 10vh;
 }
-
 .dropdown-menu{
-    width: 50vh;
+    width: 100%;
     height: 8vh;
 }
