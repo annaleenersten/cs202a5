@@ -14,5 +14,5 @@ function displayNumber(){
 }
 
 function randNumber(){
-    return Math.floor(Math.random()*15) + 2;
+    return Math.floor(Math.random()*14) + 2;
 }
