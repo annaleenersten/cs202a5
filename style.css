@@ -5,6 +5,7 @@ body header{
     background-repeat: repeat;
     height: 13vh;
     background-size: 20vh;
+    width: 100%;
     font-family: 'Protest Strike', sans-serif;
     color:red;
     font-weight: bolder;
