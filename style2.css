@@ -3,8 +3,6 @@
 body{
     text-align: center;
     font-family: 'Protest Strike', sans-serif;
-    background-image: url(Stadium_Piece.jpg);
-    /* background-size: 100vh; */
 }
 .btn-danger{
     background-color: red;
