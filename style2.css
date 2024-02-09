@@ -3,6 +3,12 @@
 body{
     text-align: center;
     font-family: 'Protest Strike', sans-serif;
+    background-image: url(vecteezy_checkered-black-and-white-background-vector-illustration_20716445.jpg);
+    background-size: 35vh;
+}
+.row{
+    background-color: white;
+    padding: 2vh;
 }
 .btn-danger{
     background-color: red;
